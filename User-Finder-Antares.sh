@@ -979,7 +979,7 @@ fi
 partial
 }
 banner
-read -p $'\e[1;92m[\e[0m\e[1;77m>\e[0m\e[1;92m] Input Username:\e[0m ' username
+read -p $'\e[1;92m[\e[0m\e[1;77m>\e[0m\e[1;92m] nombre del usuario:\e[0m ' username
 check_file
 global_IS
 scanner
